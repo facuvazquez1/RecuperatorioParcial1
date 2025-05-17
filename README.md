@@ -1,6 +1,7 @@
 # Recupatorio Parcial 1 - Programacion
 
 Alumno: Facundo Gaston Vazquez
+
 Comision: 22
 
 ## Gestión de Stock de Productos
